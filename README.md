@@ -1,2 +1,2 @@
 # mini_programas_js
-exercicíos de qualquer curso js;
+Exercícios de cursos de JavaScript;
