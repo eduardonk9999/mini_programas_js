@@ -37,3 +37,15 @@
 // }
 // ehPar(1);
 
+
+// function tipoDado(dado) {
+//   var seutipoEh = typeof dado;
+//   console.log(seutipoEh);
+// }
+// tipoDado('1')
+
+// window.addEventListener('scroll', function(){
+//   console.log('Eduardo Silva');
+// });
+
+
